@@ -1,0 +1,2 @@
+rootProject.name = "BroadcastAss2"
+include ':app'
